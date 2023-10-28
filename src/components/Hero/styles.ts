@@ -1,5 +1,6 @@
 import styled from 'styled-components'
 
+// A tag <form> foi substituída pela tag <section> para melhorar a semântica.
 export const HeroSection = styled.section`
   height: 360px;
   width: 100%;
